@@ -1,1 +1,1 @@
-let numeroSecreto=50;
+let numeroSecreto=200;
